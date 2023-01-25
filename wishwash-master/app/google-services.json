@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618552804977",
+    "project_id": "wishwash-d590e",
+    "storage_bucket": "wishwash-d590e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618552804977:android:a874899ef53045a9f1fdd0",
+        "android_client_info": {
+          "package_name": "com.example.wishwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618552804977-1bjo83uc3k024b844c9ff45jod5oci21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wishwash",
+            "certificate_hash": "25fb5878f12c8e796d40148949d5c4cde80a1f98"
+          }
+        },
+        {
+          "client_id": "618552804977-4iuoj28ff7a7hkhlhbc8otuja1tsrlol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnqzc7G5vsVMHkoHXU4igvSi2UTuzhThY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618552804977-4iuoj28ff7a7hkhlhbc8otuja1tsrlol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
